@@ -18,8 +18,6 @@ Welcome to the **React Native Basics** repository! This repository is designed t
 - [Navigation](#navigation)
 - [Debugging](#debugging)
 - [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
